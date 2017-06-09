@@ -36,4 +36,4 @@ Specify password for MySQL database (optional, default is `keycloak`).
 
 #### PROXY_ADDRESS_FORWARDING
 
-Set to true when running Keycloak behind a reverse proxy
+Set to true when running Keycloak behind a reverse proxy (optional, default is `false`).
